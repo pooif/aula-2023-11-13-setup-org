@@ -1,0 +1,9 @@
+Começar um projeto Java, gerenciando as dependências e organizado em pacotes
+
+Ferramenta de construção (build) e gerenciamento de pacotes
+
+Node (JS/TS): NPM
+PHP: Composer
+C#/DOTNET: NuGet
+Java/Kotlin/Groovy: Maven/Gradle
+Platform -> build package management tool
